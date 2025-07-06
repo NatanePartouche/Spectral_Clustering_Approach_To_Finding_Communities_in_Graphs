@@ -79,7 +79,7 @@ Ideal for quick learning, technical interviews, and academic presentations.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Spectral_Clustering_Approach_To_Finding_Communities_in_Graphs.git
+git clone https://github.com/NatanePartouche/Spectral_Clustering_Approach_To_Finding_Communities_in_Graphs.git
 cd Spectral_Clustering_Approach_To_Finding_Communities_in_Graphs
 ```
 
@@ -92,14 +92,6 @@ pip install numpy scipy networkx matplotlib scikit-learn
 3. **Run the notebooks:**
 
 Launch Jupyter Lab or Notebook and explore each notebook to understand the implementations and reproduce results.
-
----
-
-## 👨‍💻 Author
-
-- **Name:** [Your Name Here]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
 
 ---
 
